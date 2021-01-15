@@ -1,0 +1,25 @@
+.displayInput
+{
+    width: 200px;
+    height: 100px;
+    margin: 15px 25px;
+
+    text-align: center;
+
+    border: 2px solid black;
+    border-radius: 12px;
+    background-color: lawngreen;
+}
+
+.defaultInput {
+    width: 60px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.redInput
+{
+    width: 60px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: red;
+}

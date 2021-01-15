@@ -1,0 +1,35 @@
+.displaySpan {
+    width: 200px;
+    height: 100px;
+    margin: 15px 25px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 12px;
+    background-color: lawngreen;
+}
+
+.main {
+    font-size: 60px;
+
+    margin-top: 10px;
+    color: darkblue;
+}
+
+.red {
+    font-size: 60px;
+
+    margin-top: 10px;
+    color: deeppink;
+}
+
+.textNorm {
+    font-size: 24px;
+
+    color: blue;
+}
+
+.textRed {
+    font-size: 24px;
+
+    color: red;
+}
